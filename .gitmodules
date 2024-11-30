@@ -7,3 +7,6 @@
 [submodule "meta-st-stm32mp"]
 	path = meta-st-stm32mp
 	url = https://github.com/STMicroelectronics/meta-st-stm32mp
+[submodule "meta-go001"]
+	path = meta-go001
+	url = git@github.com:opps-kernelpanic/meta-go001.git
