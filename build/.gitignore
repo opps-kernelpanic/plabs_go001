@@ -1,3 +1,6 @@
 *.log
 *.lock
 /tmp/*
+/cache/*
+/downloads/*
+/sstate-cache/*
