@@ -10,3 +10,6 @@
 [submodule "meta-go001"]
 	path = meta-go001
 	url = git@github.com:opps-kernelpanic/meta-go001.git
+[submodule "meta-wayland"]
+	path = meta-wayland
+	url = https://codeberg.org/flk/meta-wayland.git
