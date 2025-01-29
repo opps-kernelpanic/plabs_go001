@@ -10,3 +10,6 @@
 [submodule "meta-go001"]
 	path = meta-go001
 	url = git@github.com:opps-kernelpanic/meta-go001.git
+[submodule "sources/linux"]
+	path = sources/linux
+	url = git@github.com:opps-kernelpanic/linux.git
