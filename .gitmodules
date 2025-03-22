@@ -13,3 +13,6 @@
 [submodule "sources/linux"]
 	path = sources/linux
 	url = git@github.com:opps-kernelpanic/linux.git
+[submodule "sources/terminal-ui"]
+	path = sources/terminal-ui
+	url = git@github.com:opps-kernelpanic/terminal-ui.git
