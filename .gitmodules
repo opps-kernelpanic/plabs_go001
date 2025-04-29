@@ -16,3 +16,6 @@
 [submodule "sources/terminal-ui"]
 	path = sources/terminal-ui
 	url = git@github.com:opps-kernelpanic/terminal-ui.git
+[submodule "sources/Font-Awesome"]
+	path = sources/Font-Awesome
+	url = git@github.com:FortAwesome/Font-Awesome.git
