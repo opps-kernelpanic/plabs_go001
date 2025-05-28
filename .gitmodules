@@ -10,3 +10,15 @@
 [submodule "meta-go001"]
 	path = meta-go001
 	url = git@github.com:opps-kernelpanic/meta-go001.git
+[submodule "sources/linux"]
+	path = sources/linux
+	url = git@github.com:opps-kernelpanic/linux.git
+[submodule "sources/terminal-ui"]
+	path = sources/terminal-ui
+	url = git@github.com:opps-kernelpanic/terminal-ui.git
+[submodule "sources/Font-Awesome"]
+	path = sources/Font-Awesome
+	url = git@github.com:FortAwesome/Font-Awesome.git
+[submodule "sources/sys-mgr"]
+	path = sources/sys-mgr
+	url = git@github.com:opps-kernelpanic/sys-mgr.git
